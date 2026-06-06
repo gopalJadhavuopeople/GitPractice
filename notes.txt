@@ -1,3 +1,0 @@
-Hello git 
-Learning git 
-Git Push Practice 
